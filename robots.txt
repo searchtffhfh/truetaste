@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Allow: /index.html
+Allow: /privacy-policy.html
+Allow: /terms-and-conditions.html
+Allow: /disclaimer.html
+Disallow: /assets/
+
+Sitemap: https://yourdomain.com/sitemap.xml
